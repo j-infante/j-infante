@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @j-infante (Josua Infante)
-- 🌱 I’m currently learning typescript.
 - 📫 How to reach me? -> email me here (josuainfate@gmail.com)
 
 <!---
